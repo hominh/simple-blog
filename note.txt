@@ -1,0 +1,6 @@
+-	Dat ten view theo ten ham trong controller
+-	Folder partial chua cac phan cua giao dien
+-	Folder layout chua thu muc tong quat
+-	@yeild: tao ra khoang trong (moi trang 1 title)
+-	section: tim dung cum do trong layout master
+-	co section thi phai co stop
